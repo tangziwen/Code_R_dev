@@ -1,0 +1,15 @@
+ <?xml version="1.0"?>  
+<Items>
+    <Item>
+	    <name>apple</name>
+		<type>food</type>
+        <description>apple fuckin' cool</description>
+        <res_path>apple.png</res_path>
+    </Item>
+    <Item>
+		<name>bad_apple</name>
+		<type>food</type>
+        <description>bad apple ain't cool</description>
+        <res_path>bad_apple.png</res_path>
+    </Item>
+</Items> 

@@ -1,0 +1,10 @@
+ <?xml version="1.0"?>  
+<Enemies>
+    <enemy>
+        <name>bat</name>
+		<damage>3</damage>
+		<health>15</health>
+        <description>diu ni lou mou</description>
+        <res_path>bat.png</res_path>
+    </enemy>
+</Enemies> 

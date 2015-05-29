@@ -1,0 +1,25 @@
+ <?xml version="1.0"?>  
+<Tiles>
+
+    <tile>
+        <name>wall</name>
+        <is_obstacle>true</is_obstacle>
+        <description>just ground</description>
+        <res_path>wall.png</res_path>
+    </tile>
+
+    <tile>
+    <name>room</name>
+    <is_obstacle>false</is_obstacle>
+    <description>just ground</description>
+    <res_path>room.png</res_path>
+    </tile>
+
+    <tile>
+        <name>path</name>
+        <is_obstacle>false</is_obstacle>
+        <description>just ground</description>
+        <res_path>path.png</res_path>
+    </tile>
+
+</Tiles> 
